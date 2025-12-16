@@ -2,7 +2,7 @@
 
 **Backend Engineer | ASP.NET Core | Performance-focused APIs**
 
-I am an intermediate Backend Engineer. I started my journey in networking and I blend my network perspective with backend development. I am focused and all for building systems that are clean, efficient, and optimized for performance, with a deep appreciation for how applications interact with networks and infrastructure.I am constantly learning and growing, and I am committed to evolving into a more advanced backend engineer.
+I am an intermediate Backend Engineer with a background in networking. I blend my network perspective with backend development. I am focused and all for building systems that are clean, efficient, and optimized for performance, with a deep appreciation for how applications interact with networks and infrastructure.I am constantly learning and growing, and I am committed to evolving into a more advanced backend engineer.
 
 ---
 
