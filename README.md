@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Oluwabukunmi Ogunlana
 
+GitHub: https://github.com/Oluwabukunmii | Email : Oluwabukunmifayofade@gmail.com | - Phonenumber : 08161411641
+
 **Backend Engineer | ASP.NET Core | Performance-focused APIs**
 
 I am an intermediate Backend Engineer with a background in networking. I blend my network perspective with backend development. I am focused and all for building systems that are clean, efficient, and optimized for performance, with a deep appreciation for how applications interact with networks and infrastructure.I am constantly learning and growing, and I am committed to evolving into a more advanced backend engineer.
@@ -41,6 +43,7 @@ I am an intermediate Backend Engineer with a background in networking. I blend m
 - FluentValidation
 - Swagger / OpenAPI
 - EF Core Migrations
+- Git, GitHub
 
 ---
 ## 🔗 Quick Project Links
@@ -49,7 +52,7 @@ I am an intermediate Backend Engineer with a background in networking. I blend m
 🌍 **[9JA NGWalks API](https://github.com/Oluwabukunmii/9JA-NGWALKS)**  
 ✅ **[Todo List API](https://github.com/Oluwabukunmii/TodoListapp)**
 
-
+---
 ## 📚 What I’m Learning
 
 - Advanced ASP.NET Core patterns
@@ -58,10 +61,18 @@ I am an intermediate Backend Engineer with a background in networking. I blend m
 - Cloud deployment and backend scalability on Azure
 
 ## 📌 What I Care About
+
 - Writing clean, maintainable backend code  
 - Performance optimization and scalability  
 - Proper validation, logging, and error handling  
 - Learning and applying best practices in backend engineering
+
+## 📌 Where I’m Going
+
+- Growing into a well-rounded backend engineer focused on building scalable and secure systems
+- Building deeper understanding of backend architecture and system design  
+- Focusing on performance, security, and maintainability
+- Continuously learning and applying industry best practices.
 
 ---
 ## 🚀 Featured Projects
@@ -105,9 +116,4 @@ A clean CRUD API for managing personal tasks, designed with **security and testi
 - Global exception handling
 - Unit and integration testing
 
------
 
-📫 **Let’s connect:**  
-- GitHub: https://github.com/Oluwabukunmii
-- Email : Oluwabukunmifayofade@gmail.com
-- Phonenumber : 08161411641
