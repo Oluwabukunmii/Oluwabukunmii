@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Oluwabukunmi Ogunlana
 
-GitHub: https://github.com/Oluwabukunmii | Email : Oluwabukunmifayofade@gmail.com | - Phonenumber : 08161411641
+🌐 GitHub: [Oluwabukunmii](https://github.com/Oluwabukunmii)  
+📧 Email: [Oluwabukunmifayofade@gmail.com](mailto:Oluwabukunmifayofade@gmail.com)  
+📞 Phone: +234 816 141 1641
 
 **Backend Engineer | ASP.NET Core | Performance-focused APIs**
 
