@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Oluwabukunmi Ogunlana
 
 📧 Email: [Oluwabukunmifayofade@gmail.com](mailto:Oluwabukunmifayofade@gmail.com)  
-🌐 GitHub: [Oluwabukunmii](https://github.com/Oluwabukunmii)  
 
 **Backend Engineer | ASP.NET Core | Performance-focused APIs**
 
@@ -24,7 +23,7 @@ I am an intermediate Backend Engineer with a background in networking. I blend m
 - Clean Architecture
 - Repository & Service Patterns
 - Dependency Injection
-- Result Pattern
+- Separation of concerns and domain-driven design fundamentals
 
 **Security**
 - JWT Authentication
