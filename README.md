@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Oluwabukunmi Ogunlana
 
 📧 Email: [Oluwabukunmifayofade@gmail.com](mailto:Oluwabukunmifayofade@gmail.com)  
+🌐 GitHub: [Oluwabukunmii](https://github.com/Oluwabukunmii)  
 
 **Backend Engineer | ASP.NET Core | Performance-focused APIs**
 
@@ -59,6 +60,7 @@ I am an intermediate Backend Engineer with a background in networking. I blend m
 - Writing highly testable and maintainable APIs
 - Performance tuning and optimization
 - Cloud deployment and backend scalability on Azure
+- Building deeper understanding of backend architecture and system design  
 
 ## 📌 What I Care About
 
@@ -70,9 +72,6 @@ I am an intermediate Backend Engineer with a background in networking. I blend m
 ## 📌 Where I’m Going
 
 - Growing into a well-rounded backend engineer focused on building scalable and secure systems
-- Building deeper understanding of backend architecture and system design  
-- Focusing on performance, security, and maintainability
-- Continuously learning and applying industry best practices.
 
 ---
 ## 🚀 Featured Projects
